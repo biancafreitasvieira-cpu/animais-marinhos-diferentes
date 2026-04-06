@@ -1,8 +1,11 @@
 body{
     background-color: rgb(144, 195, 206, 100);
     color: rgb(25, 80, 103, 100);
-
+    text-align: center;
 }
-imagem{
-    height: 5px;
+.imagem{
+    width: 30%;
+}
+body{
+    height:30px;
 }
